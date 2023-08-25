@@ -1,0 +1,6 @@
+port: 443
+portMapping:
+  1433: 1433
+workspace: Sandbox
+env:
+  ACCEPT_EULA: "Y"
